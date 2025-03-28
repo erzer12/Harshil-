@@ -44,7 +44,7 @@
 + 2023 NASA Space Apps Challenge Participant
 ! Theme: Environmental Awareness Gaming
 # Created prototype game concept
-@ Category: Best Social Impact Idea (Regional Finalist)
+@ Category: Best Social Impact Idea
 
 ---
 

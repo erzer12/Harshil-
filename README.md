@@ -1,69 +1,107 @@
+<!-- Waving Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Harshil;A+Passionate+Developer+From+India%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=200&section=header&text=Harshil+P&fontSize=50&fontColor=ffffff" alt="Header">
 </div>
 
+<!-- Animated Mascot -->
 <div align="center">
-  <a href="https://github.com/erzer12">
-    <img src="https://komarev.com/ghpvc/?username=erzer12&color=blue&style=flat-square" alt="Profile Views" />
+  <img src="./assets/ai-mascot.gif" width="200" alt="AI Buddy" title="Future Vision Engineer 👁️🤖">
+</div>
+
+<!-- Typing Animation -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=AI+Prompt+Architect;Computer+Vision+Learner;OpenCV+Explorer;Hackathon+Enthusiast" alt="Animated Title">
+</div>
+
+---
+
+### 🧬 Code DNA
+
+🧠 Core Skills:
+- Python (60%) ██████░░░░░░
+- C (45%) █████░░░░░░░
+- Java (40%) ████░░░░░░░░
+- HTML/CSS (50%) █████░░░░░░
+- Prompt Engineering (70%) ███████░░░░
+
+🎯 Current Focus:
+» OpenCV Fundamentals
+» Object Detection Basics
+» NASA Hackathon Experience
+
+
+---
+
+### 🛠️ Toolkit
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py,c,java,html,css,vscode,github,linux&theme=dark" alt="tools">
+</div>
+
+---
+
+### 🌌 Hackathon Journey
+
++ 2023 NASA Space Apps Challenge Participant
+! Theme: Environmental Awareness Gaming
+# Created prototype game concept
+@ Category: Best Social Impact Idea (Regional Finalist)
+
+---
+
+### 📊 GitHub Landscape
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=erzer12&show_icons=true&theme=dark&hide_border=true" width="45%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=erzer12&theme=dark&hide_border=true" width="45%">
+</div>
+
+<!-- 3D Contribution Map -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/erzer12/erzer12/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%">
+</div>
+
+---
+
+### 🚧 Under Construction
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=First+CV+Project+Incoming+%F0%9F%93%B8%EF%B8%8F;AI+Powered+Web+App+%F0%9F%94%A5;Interactive+Learning+Modules+%F0%9F%93%9A" alt="Coming Soon">
+</div>
+
+---
+
+### 📡 Connect Matrix
+<div align="center">
+  <a href="https://www.linkedin.com/in/harshil-p-491a2132b">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://github.com/erzer12?tab=followers">
-    <img src="https://img.shields.io/github/followers/erzer12?label=Followers&style=social" alt="GitHub Followers" />
-  </a>
-</div>
-
----
-
-### 🛠️ Technologies & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,css,html,java,linux,mysql,python,vscode,github" />
-</p>
-
----
-
-### 📈 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/erzer12">
-    <img width="400" src="https://github-readme-stats.vercel.app/api?username=erzer12&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-    <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=erzer12&theme=dark&hide_border=true" />
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=erzer12&theme=react-dark&hide_border=true&area=true" width="800" />
-</div>
-
----
-
-### 🌱 Currently Learning
-- Web Development (MERN Stack)
-- Computer Vision with OpenCV
-- Cloud Computing Basics
-
----
-
-### 📫 Let's Connect!
-
-<div align="center">
   <a href="mailto:harshilp1234@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/harshil-p-/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/harshil/" target="_blank">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
-  </a>
-  <a href="https://instagram.com/_er_zer_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://instagram.com/_er_zer_">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 </div>
 
----
-
-### 🏆 GitHub Trophies
-
+<!-- Easter Egg -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=erzer12&theme=onedark&no-frame=true&row=2&column=4" />
+  <details>
+    <summary>🤖 Secret Protocol</summary>
+    <br>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=01001000+01000101+01001100+01001100+01001111+00100000+01010111+01001111+01010010+01001100+01000100" alt="Binary Secret">
+  </details>
 </div>
+
+<!-- Footer Wave -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=100&section=footer" alt="Footer">
+</div>
+```
+
+**Complete File Structure**:
+
+your-repo/
+├─ .github/
+│  └─ workflows/
+│     └─ snake.yml
+├─ assets/
+│  └─ ai-mascot.gif
+└─ README.md

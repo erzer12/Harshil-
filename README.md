@@ -68,23 +68,23 @@
 
 ---
 
-### 🌐 Connect Matrix
+### 🤝 Let's Connect!
 
 <div align="center">
   <a href="https://www.linkedin.com/in/harshil-p-491a2132b" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000&color=0077B5">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" title="LinkedIn" height="40">
   </a>
   <a href="mailto:harshilp1234@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000&color=D14836">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" title="Gmail" height="40">
   </a>
   <a href="https://instagram.com/_er_zer_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000&color=E4405F">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" title="Instagram" height="40">
   </a>
   <a href="https://leetcode.com/harshil/" target="_blank">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=000">
+    <img src="https://skillicons.dev/icons?i=leetcode" alt="LeetCode" title="LeetCode" height="40">
   </a>
   <a href="https://github.com/erzer12" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub Profile" height="40">
   </a>
 </div>
 
